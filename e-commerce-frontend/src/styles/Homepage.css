@@ -1,0 +1,7 @@
+.card{
+    position: relative;
+}
+.product-image{
+    width: 125px;
+    transform: translate(50%,0%);
+}
